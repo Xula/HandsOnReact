@@ -1,2 +1,0 @@
-# HandsOnReact
-Created with CodeSandbox
